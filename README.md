@@ -9,7 +9,7 @@ Chat is ephemeral. **Files are canon.**
 | Path | Purpose |
 |------|---------|
 | `skills/digital-dm/` | Run sessions: track world state, narrate, update files |
-| `skills/digital-dm-setup/` | Scaffold a new campaign tree from templates |
+| `skills/digital-dm-setup/` | Setup wizard + scaffold a new campaign tree |
 | `templates/` | Starter markdown for NPCs, quests, inventory, etc. |
 | `scaffold/` | Empty campaign folder layout to copy |
 
@@ -36,5 +36,5 @@ See `skills/digital-dm/references/filesystem.md` for the full map.
 ## Quick start
 
 1. Install skills (`install.sh`)
-2. Ask the agent to use **digital-dm-setup** and create/copy a campaign under your campaigns folder
-3. In play, invoke **digital-dm** (or mention Dungeon Master / campaign tracking) so it reads `state/campaign.md` and writes lasting changes to disk
+2. Ask the agent to run **digital-dm-setup** — it opens a **Setup Wizard** (tone, theme, setting, and whether to use existing docs or invent an original storyline)
+3. After files exist, play with **digital-dm** (reads `state/campaign.md`, writes lasting changes)

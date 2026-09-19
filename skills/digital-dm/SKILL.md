@@ -50,7 +50,7 @@ What to track: [references/tracking-checklist.md](references/tracking-checklist.
 
 ## New campaign
 
-If no tree exists, use skill **digital-dm-setup** (or copy `scaffold/` + `templates/` from this repo).
+If no tree exists, run skill **digital-dm-setup** and complete its **Setup Wizard** (tone, theme, setting, storyline source A/B/C/D) before play. Do not invent a full campaign behind the user’s back.
 
 ## Anti-patterns
 

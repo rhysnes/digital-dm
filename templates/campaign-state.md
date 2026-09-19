@@ -13,6 +13,7 @@
 | Active quest | |
 
 ## Flags
+- wizard_complete: false
 - chargen_complete: false
 - adventure_started: false
 

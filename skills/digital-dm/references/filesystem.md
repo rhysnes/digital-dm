@@ -27,8 +27,9 @@ Genre-agnostic. Rename flavour inside files; keep folder roles stable so agents 
     plot-points.md          # optional
     timeline.md             # optional
     player-canon.md         # accepted improv facts
+    session-0-brief.md      # setup wizard answers
   encounters/               # tables / random engines
-  rules/                    # house rules, narration, improv (campaign-local)
+  rules/                    # house rules, tone, improv (campaign-local)
   handouts/                 # player-facing texts
 ```
 
