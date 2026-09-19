@@ -22,7 +22,7 @@ Tag player-canon lines with session # / date.
 ## Tone permission
 If the campaign allows silliness, it must be **in-universe** (fiction owns it). Permission is not a mandate — do not steer toward or away from comedy because it’s allowed.
 
-Inspiration range (Dungeons and Daddies, Critical Role, NADDPOD): [tone-inspirations.md](tone-inspirations.md).
+Inspiration range (Dungeons and Daddies, Critical Role, NADDPOD, DnD Is For Nerds): [tone-inspirations.md](tone-inspirations.md).
 
 ## Digressions
 Follow strong player pulls. Promote multi-scene bits to `module/episodes/`. Tick main clocks in the background.

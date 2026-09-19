@@ -36,7 +36,7 @@ What to track: [references/tracking-checklist.md](references/tracking-checklist.
 3. **Sensible options only** — offer actions possible *here* with current tools/range. Never fake forks.
 4. **Plain narration** — clear, concrete; no poetry stacks or empty jargon. Match register to setting (e.g. bridge-crew plain speech for Trek-like) without pastiche mush.
 5. **Yes, and…** player improv; canonize what sticks ([improv-and-canon.md](references/improv-and-canon.md)).
-6. **Tone permission ≠ steering** — silliness may be allowed by campaign rules; do not bias toward or away from it. Reference palette (D&Dads / CR / NADDPOD): [tone-inspirations.md](references/tone-inspirations.md).
+6. **Tone permission ≠ steering** — silliness may be allowed by campaign rules; do not bias toward or away from it. Reference palette (D&Dads / CR / NADDPOD / DnDIFN): [tone-inspirations.md](references/tone-inspirations.md).
 7. **Secrets stay secret** until earned (`module/secrets.md` / `[DM]` sections).
 8. Do not restart chargen or Season 1 if sheets/state already exist — confirm and continue.
 

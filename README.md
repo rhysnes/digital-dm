@@ -15,7 +15,7 @@ Chat is ephemeral. **Files are canon.**
 
 Genre (fantasy, Trek-like sci-fi, horror, …) lives in the **campaign** tree, not in these skills.
 
-Tone palette inspirations (optional, not mandates): Dungeons and Daddies, Critical Role, Not Another D&D Podcast — see `skills/digital-dm/references/tone-inspirations.md`.
+Tone palette inspirations (optional, not mandates): Dungeons and Daddies, Critical Role, Not Another D&D Podcast, DnD Is For Nerds — see `skills/digital-dm/references/tone-inspirations.md`.
 
 ## Install skills for Cursor
 
