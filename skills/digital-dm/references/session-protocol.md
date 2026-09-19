@@ -21,6 +21,7 @@
 5. Note next hook in campaign state
 
 ## Chargen / Session 0
+- Prefer **digital-dm-setup** wizard before first play if `wizard_complete` is false
 - Build or confirm PC sheets under `party/`
 - Do not start Chapter 1 until state says ready / user says go
 - Never discard an existing sheet without explicit request

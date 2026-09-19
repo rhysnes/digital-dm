@@ -4,6 +4,8 @@ Genre-agnostic **skills + campaign filesystem** for a Cursor agent acting as a l
 
 Chat is ephemeral. **Files are canon.**
 
+This repository is the **DM toolkit only** — it does not include a pre-written adventure. Each user runs the Setup Wizard and builds (or imports) their own campaign.
+
 ## What’s in this repo
 
 | Path | Purpose |
@@ -13,28 +15,30 @@ Chat is ephemeral. **Files are canon.**
 | `templates/` | Starter markdown for NPCs, quests, inventory, etc. |
 | `scaffold/` | Empty campaign folder layout to copy |
 
-Genre (fantasy, Trek-like sci-fi, horror, …) lives in the **campaign** tree, not in these skills.
+Genre (fantasy, Trek-like sci-fi, horror, …) lives in the **campaign** tree you create, not in these skills.
 
 Tone palette inspirations (optional, not mandates): Dungeons and Daddies, Critical Role, Not Another D&D Podcast, DnD Is For Nerds — see `skills/digital-dm/references/tone-inspirations.md`.
 
 ## Install skills for Cursor
 
+From the repo root:
+
 ```bash
-"/home/rhys/Coding Projects/Tools/digital-dm/install.sh"
+./install.sh
 ```
 
 Symlinks into `~/.cursor/skills/`. Re-run after pulls.
 
 ## Typical campaign root
 
-Point the agent at a campaign directory (example):
+Point the agent at a campaign directory you create, for example:
 
-`/home/rhys/DnD-Campaigns/<campaign-slug>/`
+`~/DnD-Campaigns/<campaign-slug>/`
 
 See `skills/digital-dm/references/filesystem.md` for the full map.
 
 ## Quick start
 
-1. Install skills (`install.sh`)
-2. Ask the agent to run **digital-dm-setup** — it opens a **Setup Wizard** (tone, theme, setting, and whether to use existing docs or invent an original storyline)
+1. Clone this repo and run `./install.sh`
+2. In Cursor, ask the agent to run **digital-dm-setup** — Setup Wizard (tone, theme, setting, existing docs vs original storyline)
 3. After files exist, play with **digital-dm** (reads `state/campaign.md`, writes lasting changes)
