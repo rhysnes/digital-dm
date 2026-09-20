@@ -32,6 +32,8 @@ What to track: [references/tracking-checklist.md](references/tracking-checklist.
 
 When adjudicating D&D 5e (loose or strict-SRD): read the relevant `knowledge/5e/` doc before inventing a ruling. Prefer **compendium/** homebrew ancestries/classes/spells/monsters for play content; use SRD sources only when the campaign opts in. Campaign `rules/` still wins.
 
+**Character sheets:** use skill **digital-dm-charsheet** to keep `party/*.md` (YAML frontmatter) and render ASCII in the terminal when showing a sheet.
+
 ## Non-negotiables
 
 1. **Write lasting changes** to the campaign tree before ending a play beat (HP, inventory, currency, clocks, NPC attitude, quest status, location, session log).

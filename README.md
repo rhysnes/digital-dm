@@ -9,7 +9,7 @@ This repository is the **DM toolkit only**. It does **not** ship a pre-written a
 | | |
 |-|-|
 | **Repo** | https://github.com/rhysnes/digital-dm |
-| **Skills** | `digital-dm-setup` (wizard + scaffold) · `digital-dm` (run sessions) |
+| **Skills** | `digital-dm-setup` · `digital-dm` · `digital-dm-charsheet` |
 | **Requires** | [Cursor](https://cursor.com) with Agent Skills enabled |
 
 ## Documentation
