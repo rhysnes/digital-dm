@@ -15,6 +15,7 @@
 | [monsters-srd-index.md](monsters-srd-index.md) | Picking legal monsters |
 | [settings-high-level.md](settings-high-level.md) | “What is the Forgotten Realms?”-level |
 | [loose-5e.md](loose-5e.md) | Digital DM’s recommended looseness |
+| [compendium/](compendium/) | Homebrew ancestries, classes, spells, monsters |
 
 ## Core math (always)
 

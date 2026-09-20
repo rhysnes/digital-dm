@@ -4,7 +4,7 @@ Use with skill **digital-dm-setup**. Ask in batches. Prefer the user’s words i
 
 ## Batch 1 — Frame
 - Working title? (or invent later)
-- Rules system?
+- Rules system? (if D&D 5e, toolkit `knowledge/5e/` is available)
 - Solo PC or party?
 - Campaign folder path / slug?
 

@@ -19,6 +19,7 @@ Public, non-proprietary reference material for Digital DM agents. **Not** a subs
 | [5e/monsters-srd-index.md](5e/monsters-srd-index.md) | How to use SRD monsters; common names |
 | [5e/settings-high-level.md](5e/settings-high-level.md) | Public-knowledge setting sketches |
 | [5e/loose-5e.md](5e/loose-5e.md) | “5e loose” house-style for Digital DM |
+| [5e/compendium/](5e/compendium/) | **Homebrew** ancestries, classes, spells, monsters |
 
 ## How agents should use this
 

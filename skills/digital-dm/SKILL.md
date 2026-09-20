@@ -30,7 +30,7 @@ Tone palette: [references/tone-inspirations.md](references/tone-inspirations.md)
 What to track: [references/tracking-checklist.md](references/tracking-checklist.md)  
 **5e open primer:** [../../../knowledge/5e/README.md](../../../knowledge/5e/README.md) (SRD-first; see [../../../knowledge/ATTRIBUTION.md](../../../knowledge/ATTRIBUTION.md))
 
-When adjudicating D&D 5e (loose or strict-SRD): read the relevant `knowledge/5e/` doc before inventing a ruling. Campaign `rules/` still wins.
+When adjudicating D&D 5e (loose or strict-SRD): read the relevant `knowledge/5e/` doc before inventing a ruling. Prefer **compendium/** homebrew ancestries/classes/spells/monsters for play content; use SRD sources only when the campaign opts in. Campaign `rules/` still wins.
 
 ## Non-negotiables
 
