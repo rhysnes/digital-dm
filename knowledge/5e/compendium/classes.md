@@ -184,5 +184,83 @@ Slots (half-caster pace):
 
 ---
 
+# Levels 11–20 (all classes)
+
+**ASI levels (all):** 12, 16, 19 (and any listed below). Proficiency: L11–12 +4; L13–16 +5; L17–20 +6.
+
+### Vanguard 11–20
+| L | Feature |
+|---|--------|
+| 11 | Extra Attack (3) |
+| 13 | Indomitable ×2 / long rest |
+| 14 | Archetype: Bulwark — allies within 5 ft +1 AC; Raider — +2d6 charge damage |
+| 15 | Relentless Survivor (once/long rest: ignore death for 1 round at 0 HP, act, then fall) |
+| 17 | Indomitable ×3 · Action Surge ×2 |
+| 18 | Archetype capstone: Bulwark resistance bludgeoning/piercing/slashing while conscious; Raider Extra Attack (4) when you Dash then Attack |
+| 20 | Survivor Surge: Second Wind also ends one condition (poisoned/frightened/restrained) |
+
+### Shadow 11–20
+Sneak Attack: L11 6d6 · L13 7d6 · L15 8d6 · L17 9d6 · L19 10d6  
+| L | Feature |
+|---|--------|
+| 11 | Reliable Talent (all classes? Shadow: d20≤9 → 10 on proficient checks) |
+| 13 | Blindsense 10 ft (hear hidden/invisible) |
+| 14 | Archetype: Cutpurse — Use Object as Cunning Action; Assassin — Paralyzing Strike (Con DC = 8+prof+Dex) poisoned/incapacitated until end of its next turn on Sneak hit 1/short rest |
+| 17 | Elusive (no advantage on attacks vs you unless incapacitated) |
+| 20 | Stroke of Luck (1/short rest: turn miss into hit or fail check into 20) |
+
+### Channeler 11–20
+Slots continue standard full-caster progression (6th at 11, 7th at 13, 8th at 15, 9th at 17).  
+| L | Feature |
+|---|--------|
+| 11 | Tradition: Evoker — Empowered blast (reroll ≤2 casting mod damage dice/spell 1/turn); Warden — Spell Ward (absorb 3×level damage as reaction 1/long rest) |
+| 14 | Tradition: Evoker Overchannel (max damage on 1st–5th spell 1/long rest, risk 2d12 force to self if reused); Warden Projected Ward (ally within 30) |
+| 18 | Spell Mastery (1st & 2nd at-will prepared) |
+| 20 | Signature Opus (1 third-level at-will; 1d3 long rest recover a 6th–9th slot once) |
+
+### Devoted 11–20
+Half-caster slots through 5th by L17.  
+| L | Feature |
+|---|--------|
+| 11 | Divine Strike +2d6 |
+| 14 | Mercy: Mass Repair pulse Channel; Zeel: holy weapon (magic, +1d8) 1 min |
+| 17 | Domain spells up to 5th; Channel ×3 |
+| 18 | Aura 10 ft: Mercy — allies save +prof vs disease/poison; Zeal — +prof damage once/turn |
+| 20 | Avatar (1/long rest): 1 min flight 30, resistance all, or auto-stabilize allies in aura |
+
+### Stalker 11–20
+| L | Feature |
+|---|--------|
+| 11 | Favored Enemy +2 types · Hunter Multiattack Defense (+4 AC vs opportunity) / Warden share resistance one damage type |
+| 14 | Vanish (Hide as bonus even in light obscurement) |
+| 18 | Feral Senses (fight invisibles within 30 without disadvantage) |
+| 20 | Foe Slayer (+Wis to attack or damage vs Favored Enemy 1/turn) |
+
+### Adept 11–20
+Martial Arts die d8 at 11 · d10 at 17 · Focus points = level  
+| L | Feature |
+|---|--------|
+| 13 | Tongue of Sun and Moon (understand all spoken; spoken understood) |
+| 14 | Diamond Soul (proficiency all saves; 1 focus to reroll a save) |
+| 17 | Timeless aging / no more aging penalties |
+| 18 | Empty Body (1 focus: invisible 1 min; 4 focus: resistance all but force 1 min) |
+| 20 | Perfect Self (regain 4 focus when you roll initiative with 0) |
+
+### Pactbound 11–20
+Pact slot level 5th · Mystic Arcanum: 6th (L11), 7th (L13), 8th (L15), 9th (L17) — each 1/long rest without slot  
+| L | Feature |
+|---|--------|
+| 14 | Patron: no scrying on you without save; or resist psychic |
+| 20 | Eldritch Master (short rest: regain all expended pact slots 1/long rest) |
+
+### Face 11–20
+Push die d12 at 15 · Secrets at 14 & 18 (2 spells each)  
+| L | Feature |
+|---|--------|
+| 14 | Peerless Skill (Push on yourself for a check) |
+| 20 | Superior Inspiration (start combat with 1 Push if empty) |
+
+---
+
 ## Multiclass (loose)
 Need 13 in the new class’s key ability (Str/Dex Vanguard/Shadow/Adept; Int Channeler; Wis Devoted/Stalker; Cha Pactbound/Face). Slots combine as open 5e multiclass caster table if used — or forbid multiclass for simplicity.

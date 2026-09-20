@@ -191,6 +191,94 @@ Any creature Wis save or paralyzed (as Hold Person). Higher: +1 target.
 
 ---
 
+## 6th level
+
+**Chain Lightning Web** — Evocation · V,S · 150 ft · Instant  
+Primary target Dex save 10d8 lightning (half); jump to up to 3 other targets within 30 ft each (separate saves). Higher: +1 jump target.
+
+**Disintegrate Ray** — Transmutation · V,S · 60 ft · Instant  
+Ranged spell attack; 10d6+40 force; if HP 0, reduced to dust (objects too). Higher: +3d6.
+
+**Heal Surge** — Evocation · V,S · 60 ft · Instant  
+One creature regains 70 HP and ends blind/deaf/disease/poison. Higher: +10 HP.
+
+**Sunbeam Lance** — Evocation · V,S · Self 60-ft line · C, 1 min  
+Con save 6d8 radiant (half); blinded 1 round on fail. Bonus action each turn: fire again.
+
+**True Seeing Graft** — Divination · V,S · Touch · 1 hour  
+Truesight 120 ft.
+
+**Wall of Thorns / Razorwire** — Conjuration · V,S · 120 ft · C, 10 min  
+Wall blocks; enter/start 7d8 slash (half Dex); difficult.
+
+---
+
+## 7th level
+
+**Teleport** — Conjuration · V · Touch · Instant  
+You + 8 willing → any known place on plane. Familiarity table: very familiar safe; viewed once 25% off-target; description only risky (DM).
+
+**Plane Shift Soft** — Conjuration · V,S,F · Touch · Instant  
+To a named plane/demiplane you know; or banish one creature (Cha save) to random plane.
+
+**Forcecage Lattice** — Evocation · V,S · 100 ft · 1 hour  
+20-ft cage or 10-ft box of force; no save if inside when cast; Dispel Anomaly doesn’t end; teleport out Contested.
+
+**Finger of Death Soft** — Necromancy · V,S · 60 ft · Instant  
+Con save 7d8+30 necrotic (half); humanoid slain rises as Bone Walker under your control 24 hrs? (optional undead).
+
+**Divine Word Soft** — Evocation · V · 30 ft · Instant  
+Choose creatures that can hear; if HP ≤ 50 deafened, ≤ 40 blinded+deaf, ≤ 30 also stunned, ≤ 20 also dead-ish (0 HP) — Con save negates (DC).
+
+**Mirage Arcana Soft** — Illusion · V,S · Sight · 10 days  
+Terrain illusion ≤ 1 mile square; tactile; Investigation vs DC reveals.
+
+---
+
+## 8th level
+
+**Earthquake Soft** — Evocation · V,S · 500 ft · C, 1 min  
+100-ft radius; difficult; creatures Con DC or prone; fissures/structures take heavy damage (DM).
+
+**Dominate Monster** — Enchantment · V,S · 60 ft · C, 1 hour  
+As Dominate Person but any creature.
+
+**Power Word Stun Soft** — Enchantment · V · 60 ft · Instant  
+If target ≤ 150 HP, stunned until Con save end of turns.
+
+**Sunburst** — Evocation · V,S · 150 ft · Instant  
+60-ft radius; Con save 12d6 radiant (half); blinded 1 min; undead disadv. on save.
+
+**Clone Soft / Backup Body** — Necromancy · V,S,M · Instant (grows 120 days)  
+Insurance body; soul transfers on death if body ready (campaign ethics).
+
+**Maze** — Conjuration · V,S · 60 ft · C, 10 min  
+Banish to labyrinth demiplane; Int check DC 20 each turn to escape.
+
+---
+
+## 9th level
+
+**Wish Analogue: Reality Edit** — Conjuration · V · Instant  
+Duplicate any 8th or lower spell without components; or one careful world edit (DM negotiates cost: stress, lost casting, unexpected twist). Risk of never casting this again on greedy use.
+
+**Power Word Kill Soft** — Enchantment · V · 60 ft · Instant  
+If ≤ 100 HP, drops to 0 dead; else no effect.
+
+**Meteor Swarm Soft** — Evocation · V,S · 1 mile · Instant  
+Four 40-ft-radius blasts; Dex save 20d6 fire + 20d6 B (half); overlapping areas still one save.
+
+**Gate Soft** — Conjuration · V,S · 60 ft · C, 1 min  
+Portal to another plane; can call a named creature (Cha save to refuse if unwilling).
+
+**Foresight** — Divination · V,S · Touch · 8 hours  
+Advantage attacks/checks/saves; attacks vs target have disadvantage; can’t be surprised.
+
+**Time Stop Soft** — Transmutation · V · Instant  
+1d4+1 turns where the world is frozen; affecting others ends it early.
+
+---
+
 ## Ritual tag
 
 These may be cast as rituals (+10 minutes, no slot) if your class allows: Detect Anomaly, Alarm analogue (**Ward Chime** — 1st: mental ping if Tiny+ enters 20-ft for 8 hours), Tiny Shelter (**Cabin Bubble** — 3rd: dome camp 8 hours).

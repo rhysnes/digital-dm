@@ -207,6 +207,108 @@ Sci-fi: reskin names (goblin → tunnel scavenger, etc.).
 
 ---
 
+## Beasts (extra)
+
+### Brown Bear
+*Large beast* · **AC** 11 · **HP** 34 · **Speed** 40, climb 30 · **Str** 19(+4) **Dex** 10 **Con** 16(+3)  
+**Multiattack** bite + claws · **Bite** +5 1d8+4 · **Claws** +5 2d6+4 · **CR** 1
+
+### Giant Eagle
+*Large beast* · **AC** 13 · **HP** 26 · **Speed** 10, fly 80 · **Str** 16(+3) **Dex** 17(+3)  
+**Multiattack** two attacks · **Beak** +5 1d6+3 · **Talons** +5 2d6+3 · **CR** 1
+
+### Constrictor Snake
+*Large beast* · **AC** 12 · **HP** 13 · **Speed** 30, swim 30 · **Bite** +4 1d6+2 · **Constrict** +4 1d8+2 grapple DC 12 escape · **CR** 1/4
+
+### Dire Wolf
+*Large beast* · **AC** 14 · **HP** 37 · **Speed** 50 · Pack Tactics · **Bite** +5 2d6+3 + prone Str DC 13 · **CR** 1
+
+### Swarm of Insects
+*Medium swarm Tiny beasts* · **AC** 12 · **HP** 22 · **Speed** 20, climb 20 · Resist nonmagical B/P/S · **Bites** +3 4d4 (2d4 if bloodied) · **CR** 1/2
+
+---
+
+## Undead (extra)
+
+### Zombie Shambler
+*Medium undead* · **AC** 8 · **HP** 22 · **Speed** 20 · Immune poison · Undead Fortitude (Con DC 5+damage to stay at 1 HP unless radiant/crit) · **Slam** +3 1d6+1 · **CR** 1/4
+
+### Ghoul Fang
+*Medium undead* · **AC** 12 · **HP** 22 · **Speed** 30 · **Bite** +4 2d6+2 · **Claw** +4 2d4+2 + Con DC 10 or paralyzed 1 min · **CR** 1
+
+### Wight Reaver
+*Medium undead* · **AC** 14 · **HP** 45 · **Speed** 30 · Resist necrotic; nonmagical B/P/S · **Multiattack** longsword×2 or life drain + sword · **Life Drain** +4 1d6+2 necrotic; fail Wis DC 13 → HP max reduced · **CR** 3
+
+### Specter Thin
+*Medium undead* · **AC** 12 · **HP** 22 · **Speed** fly 50 (hover) · Incorporeal · **Life Drain** +4 3d6 necrotic · **CR** 1
+
+### Vampire Spawn Soft
+*Medium undead* · **AC** 15 · **HP** 82 · **Speed** 30 · Resist necrotic; nonmagical B/P/S · Spider climb · **Multiattack** two claws · **Claw** +6 2d4+3 · **Bite** +6 1d6+3 + 2d6 necrotic + HP max (Con DC 14) · **CR** 5
+
+---
+
+## Fiends & aberrations (extra)
+
+### Imp Nuisance
+*Tiny fiend* · **AC** 13 · **HP** 10 · **Speed** 20, fly 40 · Resist cold; nonmagical B/P/S except silvered · Immune fire/poison · Shapechange rat/raven/spider · **Sting** +5 1d4+3 + Con DC 11 poison 3d6 (half) · **CR** 1
+
+### Hell Hound
+*Medium fiend* · **AC** 15 · **HP** 45 · **Speed** 50 · Immune fire · Pack tactics · **Bite** +5 1d8+3 + 2d6 fire · **Breath** recharge 5–6: 15-ft cone Dex DC 12 6d6 fire · **CR** 3
+
+### Barbed Devil Soft
+*Medium fiend* · **AC** 15 · **HP** 110 · **Speed** 30 · Resist cold; nonmagical B/P/S except silvered · Immune fire/poison · **Multiattack** claws×2 + sting · **Claws** +6 1d6+3 · **Sting** +6 1d6+3 + 2d6 poison · **Hurl Flame** +5 3d6 fire 150 ft · **CR** 5
+
+### Beholderkin: Eye Tyrant Soft (solo caution)
+*Large aberration* · **AC** 18 · **HP** 180 · **Speed** 0, fly 20 (hover) · Antimagic Cone (one eye) · **Bite** +5 2d6 · **Eye Rays** (3/round random): charm, paralyze, fear, slow, enervate 8d8 necrotic, telekinetic shove, sleep, petrify, disintegrate soft, death ray — saves DC 16 · **CR** 13
+
+---
+
+## Dragons by age (Storm lineage sample)
+
+Use damage type swap for other elements (fire/cold/acid/poison).
+
+| Age | Size | CR | HP | AC | Breath | Notes |
+|-----|------|----|----|----|--------|-------|
+| Wyrmling | Med | 2 | 52 | 17 | 4d6 | Bite +4 |
+| Young | Large | 8 | 152 | 18 | 10d6 | See Storm Drake above |
+| Adult | Huge | 15 | 225 | 19 | 16d6 | Legendary 3; Frightful Presence Wis DC 17 |
+| Ancient | Garg | 20 | 350 | 21 | 22d6 | Legendary 3; lair actions |
+
+**Adult Storm Drake (condensed):** Multiattack bite+claw×2; Bite +12 2d10+7 +2d6 lightning; Claw +12 2d6+7; Breath recharge 5–6 Dex DC 20; Legendary Resistance 3; Legendary actions detect/wing/attack.
+
+---
+
+## Humanoids & misc (extra)
+
+### Cult Fanatic
+*Medium humanoid* · **AC** 13 · **HP** 33 · **Speed** 30 · Spell DC 11 · **Spells** cantrips + 1st Fear Spike/Repair ×4 · **Multiattack** dagger×2 +5 1d4+2 · **CR** 2
+
+### Knight / Officer
+*Medium humanoid* · **AC** 18 · **HP** 52 · **Speed** 30 · **Multiattack** greatsword×2 +5 2d6+3 · Leadership recharge 5–6 · **CR** 3
+
+### Assassin Soft
+*Medium humanoid* · **AC** 15 · **HP** 64 · **Speed** 30 · Assassinate · Sneak 4d6 · **Shortsword** +6 1d6+3 + Serpent Ichor · **CR** 6
+
+### Elemental: Flame Spite
+*Large elemental* · **AC** 13 · **HP** 102 · **Speed** 50 · Immune fire/poison · Water vulnerability (extra dmg) · **Touch** +6 2d6+3 fire · **Ignite** · **CR** 5
+
+### Elemental: Stone Bruiser
+*Large elemental* · **AC** 17 · **HP** 126 · **Speed** 30 · **Multiattack** slam×2 +8 2d8+5 · Earth glide · **CR** 5
+
+### Hag: Green Whisper
+*Medium fey* · **AC** 17 · **HP** 82 · **Speed** 30 · Illusory Appearance · Invisible Passage · **Claw** +6 2d6+4 · Spell DC 13 (Mist Step, Fear Spike, Hold) · **CR** 3
+
+### Owlbear
+*Large monstrosity* · **AC** 13 · **HP** 59 · **Speed** 40 · **Multiattack** beak + claws · **Beak** +7 1d10+5 · **Claws** +7 2d8+5 · **CR** 3
+
+### Mimic Soft
+*Medium monstrosity* · **AC** 12 · **HP** 58 · **Speed** 15 · Adhesive · Pseudopod +5 1d8+3 + restrain · Bite +5 1d8+3 · Shape Object · **CR** 2
+
+### Gelatinous Cube Soft
+*Large ooze* · **AC** 6 · **HP** 84 · **Speed** 15 · Transparent · Engulf Str DC 12 · Acid 3d6 · **CR** 2
+
+---
+
 ## Encounter building (solo-friendly)
 
 | Party | Adjust |

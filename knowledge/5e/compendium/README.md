@@ -5,9 +5,19 @@ Original, **5e-compatible** play content for Digital DM. Not copied from commerc
 | Book | File |
 |------|------|
 | Ancestries | [ancestries.md](ancestries.md) |
-| Classes | [classes.md](classes.md) |
-| Spells | [spells.md](spells.md) |
+| Backgrounds | [backgrounds.md](backgrounds.md) |
+| Classes (L1–20) | [classes.md](classes.md) |
+| Spells (cantrip–9th) | [spells.md](spells.md) |
+| Equipment | [equipment.md](equipment.md) |
+| Magic items | [magic-items.md](magic-items.md) |
 | Monsters | [monsters.md](monsters.md) |
+| Traps & hazards | [traps-hazards.md](traps-hazards.md) |
+| Poisons & diseases | [poisons-diseases.md](poisons-diseases.md) |
+| Vehicles | [vehicles.md](vehicles.md) |
+
+## Not in this compendium (by design)
+- Downtime / crafting / stronghold systems  
+- Default world gazetteer (each campaign invents setting)
 
 ## Design rules
 - Math targets 5e bounded accuracy (see `../loose-5e.md`)
