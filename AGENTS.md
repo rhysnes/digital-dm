@@ -2,6 +2,10 @@
 
 You are helping with the **Digital DM toolkit** repository, or using it to run a campaign.
 
+## Rules knowledge
+
+For D&D 5e open mechanics, read `knowledge/5e/` (SRD-first primer). See `knowledge/ATTRIBUTION.md` for license limits. Do not reproduce closed commercial book text.
+
 ## If the user wants to *play*
 
 1. Prefer skills **digital-dm-setup** (new campaign / wizard) or **digital-dm** (session play).

@@ -35,3 +35,7 @@ Allowed when you say so in the wizard — in-universe, not a quota, not mid-seri
 ## Is magic required?
 
 No. Your Session 0 rules win (including “Clarke’s law only, no magic”).
+
+## Where are the 5e rules for the agent?
+
+See [`knowledge/`](../knowledge/README.md) — SRD-first primer and public high-level notes, not the full commercial books.

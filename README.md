@@ -25,6 +25,7 @@ This repository is the **DM toolkit only**. It does **not** ship a pre-written a
 | [Improv & canon](docs/improv-and-canon.md) | Yes-and, player-canon pipeline |
 | [Agent handoff](docs/agent-handoff.md) | Paste blocks for new chats |
 | [FAQ](docs/faq.md) | Common questions |
+| [Knowledge base](knowledge/README.md) | SRD-first 5e primer + public high-level notes |
 | [Contributing](CONTRIBUTING.md) | Changes to the toolkit |
 | [Agents](AGENTS.md) | Notes for AI agents using this repo |
 
@@ -48,20 +49,21 @@ After the wizard scaffolds files, play with:
 
 ```
 digital-dm/
-├── README.md                 ← you are here
+├── README.md
 ├── AGENTS.md
 ├── CONTRIBUTING.md
 ├── LICENSE
-├── install.sh                ← symlink skills into ~/.cursor/skills/
+├── install.sh
 ├── docs/                     ← human documentation
+├── knowledge/                ← SRD-first rules primer (not full commercial books)
 ├── skills/
-│   ├── digital-dm/           ← session runner skill
-│   └── digital-dm-setup/     ← wizard + scaffold skill
-├── templates/                ← markdown starters copied into campaigns
-└── scaffold/                 ← empty campaign folder tree
+│   ├── digital-dm/
+│   └── digital-dm-setup/
+├── templates/
+└── scaffold/
 ```
 
-Genre (fantasy, sci-fi, horror, …) lives in **your campaign folder**, not in these skills.
+Genre (fantasy, sci-fi, horror, …) lives in **your campaign folder**, not in these skills. Open **5e mechanics** live under `knowledge/5e/` for adjudication help.
 
 Optional tone inspirations (palette, not mandates): Dungeons and Daddies, Critical Role, Not Another D&D Podcast, DnD Is For Nerds — see [Narration & tone](docs/narration-and-tone.md).
 
