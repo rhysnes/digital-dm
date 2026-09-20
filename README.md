@@ -59,7 +59,8 @@ digital-dm/
 ├── knowledge/                ← SRD-first rules primer (not full commercial books)
 ├── skills/
 │   ├── digital-dm/
-│   └── digital-dm-setup/
+│   ├── digital-dm-setup/
+│   └── digital-dm-charsheet/
 ├── templates/
 └── scaffold/
 ```
