@@ -1,39 +1,74 @@
-# [Character Name]
+---
+name:
+player:
+ancestry:
+class:
+level: 1
+background:
+alignment:
+hp: 10
+hp_max: 10
+ac: 10
+speed: 30
+proficiency: 2
+initiative: 0
+str: 10
+dex: 10
+con: 10
+int: 10
+wis: 10
+cha: 10
+armor:
+skills:
+  - 
+weapons:
+  - 
+features:
+  - 
+inventory:
+  - 
+notes: |
+  
+---
+
+# Character Name
+
+Fill frontmatter above (required for ASCII render). Body below for humans.
 
 | Field | Value |
 |-------|-------|
 | Name | |
 | Player | |
-| Species / ancestry | |
-| Class / role | |
-| Level / rank | |
+| Ancestry | |
+| Class | |
+| Level | |
 | Background | |
-| Alignment / ethos | |
 
-## Personality
-- **Trait:**
-- **Ideal:**
-- **Bond:**
-- **Flaw:**
+## Combat
 
-## Combat / capability (adapt to system)
 | Field | Value |
 |-------|-------|
 | HP | |
-| AC / defense | |
-| Speed | |
-| Proficiency / bonus | |
+| AC | |
+| Speed | 30 |
+| Proficiency | +2 |
 
-## Ability scores / tracks
-| Stat | Value |
-|------|-------|
-| | |
+## Ability scores
 
-## Skills / trained areas
+| Stat | Score | Mod |
+|------|-------|-----|
+| STR | 10 | +0 |
+| DEX | 10 | +0 |
+| CON | 10 | +0 |
+| INT | 10 | +0 |
+| WIS | 10 | +0 |
+| CHA | 10 | +0 |
+
+## Skills
 -
 
-## Inventory (personal)
+## Inventory
 -
 
-## Notes / session keypoints
+## Notes
 -

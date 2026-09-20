@@ -24,6 +24,7 @@ This repository is the **DM toolkit only**. It does **not** ship a pre-written a
 | [Narration & tone](docs/narration-and-tone.md) | Plain speech, sensible options, comedy rules |
 | [Improv & canon](docs/improv-and-canon.md) | Yes-and, player-canon pipeline |
 | [Agent handoff](docs/agent-handoff.md) | Paste blocks for new chats |
+| [Character sheets](docs/character-sheets.md) | Markdown + ASCII terminal sheets |
 | [FAQ](docs/faq.md) | Common questions |
 | [Knowledge base](knowledge/README.md) | SRD-first 5e primer + public high-level notes |
 | [Contributing](CONTRIBUTING.md) | Changes to the toolkit |

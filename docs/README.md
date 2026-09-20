@@ -12,5 +12,6 @@ User-facing guides for **Digital DM**. Skills under `skills/` are what the agent
 8. [Agent handoff](agent-handoff.md)
 9. [FAQ](faq.md)
 10. [Knowledge base (5e SRD primer)](knowledge-base.md)
+11. [Character sheets](character-sheets.md)
 
 Return to the [root README](../README.md).
