@@ -17,7 +17,8 @@ The agent should read:
 ## During play
 
 - Ask for intent; roll when failure is interesting and stakes are real
-- Offer only **sensible** actions (possible here, now, with current tools)
+- **Open play, not menus** — players freestyle; multiple-choice only for true constrained forks (crossroads yes; “bartender or leave” in a busy tavern no)
+- When naming moves, only **sensible** ones (possible here, now, with current tools)
 - Narrate plainly; match register to the campaign without purple mush
 - **Yes, and…** player improv; write lasting facts to disk
 - New recurring NPC/place/trader → create a file the same session

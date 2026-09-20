@@ -39,7 +39,7 @@ When adjudicating D&D 5e (loose or strict-SRD): read the relevant `knowledge/5e/
 
 1. **Write lasting changes** to the campaign tree before ending a play beat (HP, inventory, currency, clocks, NPC attitude, quest status, location, session log).
 2. **Files win** over memory. On conflict, prefer newer `state/` notes and log a fix.
-3. **Sensible options only** — offer actions possible *here* with current tools/range. Never fake forks.
+3. **Open play, not menus** — players freestyle within rules/allowances. Never multiple-choice unless the fiction is already constrained (crossroads left/right is fine; “bartender or leave” in a busy tavern is not). When naming moves, only ones possible *here* with current tools/range. Never fake forks.
 4. **Plain narration** — clear, concrete; no poetry stacks or empty jargon. Match register to setting (e.g. bridge-crew plain speech for Trek-like) without pastiche mush.
 5. **Yes, and…** player improv; canonize what sticks ([improv-and-canon.md](references/improv-and-canon.md)).
 6. **Tone permission ≠ steering** — silliness may be allowed by campaign rules; do not bias toward or away from it. Reference palette (D&Dads / CR / NADDPOD / DnDIFN): [tone-inspirations.md](references/tone-inspirations.md).
@@ -62,6 +62,7 @@ If no tree exists, run skill **digital-dm-setup** and complete its **Setup Wizar
 ## Anti-patterns
 
 - Status reports that say nothing (“locked X is still locked”)
+- Multiple-choice menus in open scenes (tavern, market, social room, exploration hub)
 - Impossible investigate options (e.g. “inspect that star” from dock range)
 - Genre defaults that contradict the active campaign bible
 - Tracking only in chat

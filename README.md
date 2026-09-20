@@ -21,7 +21,7 @@ This repository is the **DM toolkit only**. It does **not** ship a pre-written a
 | [Campaign filesystem](docs/campaign-filesystem.md) | Folder map and what each path means |
 | [Playing sessions](docs/playing-sessions.md) | How the DM skill runs a session |
 | [Tracking guide](docs/tracking-guide.md) | NPCs, quests, inventory, clocks, currency |
-| [Narration & tone](docs/narration-and-tone.md) | Plain speech, sensible options, comedy rules |
+| [Narration & tone](docs/narration-and-tone.md) | Plain speech, open play (no menus), comedy rules |
 | [Improv & canon](docs/improv-and-canon.md) | Yes-and, player-canon pipeline |
 | [Agent handoff](docs/agent-handoff.md) | Paste blocks for new chats |
 | [Character sheets](docs/character-sheets.md) | Markdown + ASCII terminal sheets |

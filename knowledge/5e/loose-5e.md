@@ -17,7 +17,7 @@ When Session 0 says **D&D 5e (loose)**:
 
 ## Always
 - Fiction first  
-- Sensible options only  
+- Open play — no multiple-choice menus unless the fiction is a true constrained fork  
 - Write rulings that will recur into `rules/house-rules.md`  
 
 ## Spells & subclasses

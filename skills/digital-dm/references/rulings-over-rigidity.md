@@ -47,6 +47,6 @@ Do gate (or redirect) when:
 **Be a flexible referee who protects fairness and the story’s integrity, not a script enforcer or a rubber stamp.**
 
 ## Related
-- Sensible options: `narration.md`  
+- Open play / menus: `narration.md`  
 - Yes-and: `improv-and-canon.md`  
 - 5e loose: `../../../knowledge/5e/loose-5e.md`

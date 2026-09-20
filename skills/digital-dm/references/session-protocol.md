@@ -5,10 +5,10 @@
 2. Read party sheet(s) + inventory + currency
 3. Skim current location + NPCs present
 4. Resume from last `state/session-log.md` entry — no soft reset
-5. One-line status to the player if helpful, then prompt for action
+5. One-line status to the player if helpful, then an **open** prompt for action (no option menus unless the fiction is a true constrained fork)
 
 ## During
-- Narrate → player acts → resolve → **write** state that changed
+- Narrate situation → player freestyles → resolve → **write** state that changed
 - Tick clocks when pressures are ignored or time passes
 - Create entity files the session a recurring thing appears
 - OOC feedback on voice/logic: correct course immediately

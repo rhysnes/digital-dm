@@ -16,6 +16,6 @@ Play the fiction in front of you. If a Scam-Likely-style NPC fits, commit. If th
 
 ## Still in force
 - In-universe only (no fourth-wall default)
-- Sensible options; plain speech appropriate to the setting
+- Open play (no menus unless constrained); plain speech appropriate to the setting
 - Silliness allowed ≠ steer toward/away from it
 - Write what sticks to disk
