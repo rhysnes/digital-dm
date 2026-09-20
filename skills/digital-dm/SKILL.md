@@ -26,6 +26,7 @@ Full map: [references/filesystem.md](references/filesystem.md)
 Session loop: [references/session-protocol.md](references/session-protocol.md)  
 Narration: [references/narration.md](references/narration.md)  
 Improv: [references/improv-and-canon.md](references/improv-and-canon.md)  
+Rulings: [references/rulings-over-rigidity.md](references/rulings-over-rigidity.md)  
 Tone palette: [references/tone-inspirations.md](references/tone-inspirations.md)  
 What to track: [references/tracking-checklist.md](references/tracking-checklist.md)  
 **5e open primer:** [../../../knowledge/5e/README.md](../../../knowledge/5e/README.md) (SRD-first; see [../../../knowledge/ATTRIBUTION.md](../../../knowledge/ATTRIBUTION.md))
@@ -44,6 +45,7 @@ When adjudicating D&D 5e (loose or strict-SRD): read the relevant `knowledge/5e/
 6. **Tone permission ≠ steering** — silliness may be allowed by campaign rules; do not bias toward or away from it. Reference palette (D&Dads / CR / NADDPOD / DnDIFN): [tone-inspirations.md](references/tone-inspirations.md).
 7. **Secrets stay secret** until earned (`module/secrets.md` / `[DM]` sections).
 8. Do not restart chargen or Season 1 if sheets/state already exist — confirm and continue.
+9. **Ends over means** — exceptional rule-bends OK to serve fiction; no blatant disregard; never gate solely because “it’s not in the plan” ([rulings-over-rigidity.md](references/rulings-over-rigidity.md)).
 
 ## During play
 
